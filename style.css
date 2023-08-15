@@ -1,6 +1,16 @@
 .container {
   background-color: blanchedalmond;
   border: 1px solid black;
+  width: 250px;
+  height: 300px;
+}
+
+.col {
+  padding: 10px;
+}
+
+.btn {
+  width: 100%;
 }
 
 .form-control {
